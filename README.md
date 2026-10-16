@@ -13,6 +13,9 @@ LLM Hallucination Detector colours every token by how sure the model was **and**
 [![License: MIT](https://img.shields.io/badge/License-MIT-teal.svg)](LICENSE)
 ![Python 3.10+](https://img.shields.io/badge/python-3.10%2B-blue)
 ![Zero dependencies](https://img.shields.io/badge/dependencies-0-brightgreen)
+[![RepoGrade](https://www.repo-grade.com/api/badge/syasj/llm-hallucination-detector)](https://www.repo-grade.com/report/syasj/llm-hallucination-detector)
+[![Coverage](https://codecov.io/gh/SYasJ/llm-hallucination-detector/branch/main/graph/badge.svg)](https://codecov.io/gh/SYasJ/llm-hallucination-detector)
+[![Last commit](https://img.shields.io/github/last-commit/SYasJ/llm-hallucination-detector)](https://github.com/SYasJ/llm-hallucination-detector/commits/main)
 
 **[▶ Try the live demo](https://syasj.github.io/llm-hallucination-detector/)**: no install, no sign-up, no API key.
 

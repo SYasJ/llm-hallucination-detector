@@ -1,0 +1,10 @@
+# Coverage settings (coverage.py is used only in CI; the project itself has no dependencies).
+[run]
+source = .
+omit =
+    tests/*
+    examples/*
+    tools/*
+
+[report]
+skip_empty = true
